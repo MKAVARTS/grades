@@ -19,3 +19,25 @@ br {
     margin-top: 5%;  
     font-size: 3em;
 }
+
+#most-common {
+    display: flex;
+    flex-direction: column;
+    background: tomato;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;  
+    font-size: 3em;
+}
+
+#lowest-common {
+    display: flex;
+    flex-direction: column;
+    background: tomato;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;  
+    font-size: 3em;
+}
